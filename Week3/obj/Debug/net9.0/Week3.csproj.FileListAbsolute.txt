@@ -1,0 +1,14 @@
+/Users/jon/Desktop/C# Homework/Week3/bin/Debug/net9.0/Week3
+/Users/jon/Desktop/C# Homework/Week3/bin/Debug/net9.0/Week3.deps.json
+/Users/jon/Desktop/C# Homework/Week3/bin/Debug/net9.0/Week3.runtimeconfig.json
+/Users/jon/Desktop/C# Homework/Week3/bin/Debug/net9.0/Week3.dll
+/Users/jon/Desktop/C# Homework/Week3/bin/Debug/net9.0/Week3.pdb
+/Users/jon/Desktop/C# Homework/Week3/obj/Debug/net9.0/Week3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jon/Desktop/C# Homework/Week3/obj/Debug/net9.0/Week3.AssemblyInfoInputs.cache
+/Users/jon/Desktop/C# Homework/Week3/obj/Debug/net9.0/Week3.AssemblyInfo.cs
+/Users/jon/Desktop/C# Homework/Week3/obj/Debug/net9.0/Week3.csproj.CoreCompileInputs.cache
+/Users/jon/Desktop/C# Homework/Week3/obj/Debug/net9.0/Week3.dll
+/Users/jon/Desktop/C# Homework/Week3/obj/Debug/net9.0/refint/Week3.dll
+/Users/jon/Desktop/C# Homework/Week3/obj/Debug/net9.0/Week3.pdb
+/Users/jon/Desktop/C# Homework/Week3/obj/Debug/net9.0/Week3.genruntimeconfig.cache
+/Users/jon/Desktop/C# Homework/Week3/obj/Debug/net9.0/ref/Week3.dll
